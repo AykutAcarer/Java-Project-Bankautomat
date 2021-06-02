@@ -1,5 +1,8 @@
 package code.Konto;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 import java.util.Scanner;
 
 public class StartKonto extends Konto {

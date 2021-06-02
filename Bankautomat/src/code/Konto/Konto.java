@@ -1,5 +1,8 @@
 package code.Konto;
-
+/**
+ * @author Aykut Acarer
+ * 
+ */
 public class Konto {
 
 	private String kontoPasswort="geh08eim";
